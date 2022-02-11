@@ -29,7 +29,6 @@
   "bugs": {
     "url": "https://github.com/Polygon-Academy/starter-kits.git/issues"
   },
-
   "dependencies": {
     "@ethersproject/providers": "^5.4.3",
     "@testing-library/jest-dom": "^5.14.1",
